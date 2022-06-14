@@ -22,5 +22,5 @@ cls
 color 2
 echo Operation Completed!
 PAUSE
-start chrome https://github.com/AWeirDKiD/SimpleTempCleaner
+start https://github.com/AWeirDKiD/SimpleTempCleaner
 EXIT
