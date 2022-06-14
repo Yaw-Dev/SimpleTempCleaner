@@ -1,8 +1,9 @@
 @echo off
 
-title sCleaner
-echo Made by A WeirD KiD#2737
+title sCleaner V2 - by A WeirD KiD#2737
 
+echo Are You sure you want to clean all Temp Files?
+PAUSE
 taskkill /f /im discord.exe
 taskkill /f /im steam.exe
 taskkill /f /im lghub.exe
@@ -11,10 +12,15 @@ taskkill /f /im chrome.exe
 rmdir /s /q %systemdrive%\Windows\Temp
 rmdir /s /q %systemdrive%\Users\%username%\AppData\Local\Temp
 
-echo Empty the Recycle Bin?
+cls
+
+echo Empty the Recycle Bin? [admin privileges required]
 rmdir /s %systemdrive%\$Recycle.bin
 
+cls
+
 color 2
-echo Cleanup Successful!
+echo Operation Completed!
 PAUSE
+start chrome https://github.com/AWeirDKiD/SimpleTempCleaner
 EXIT
