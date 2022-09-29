@@ -34,6 +34,9 @@ title sCleaner V3 - by A WeirD KiD#5573
 echo Are You sure you want to clean all Temp Files?
 PAUSE
 
+dir /s /b %userprofile%\AppData\Local\Temp > TempFilesList1.txt
+dir /s /b %systemdrive%\Windows\Temp > TempFilesList2.txt
+
 taskkill /f /im discord.exe
 taskkill /f /im steam.exe
 taskkill /f /im chrome.exe
