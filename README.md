@@ -13,3 +13,5 @@ Important: Only Works on Windows 10
 <br>
 <br>
 <b>Enjoy the power of Automation!</b>
+<br>
+Made by: <b><a href="https://github.com/AWeirDKiD">A WeirD KiD</a></b>
