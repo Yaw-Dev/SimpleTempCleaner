@@ -9,7 +9,7 @@ Important: Only Works on Windows 10
 <h4>Alternative Method:</h4>
 - Download and run the Batch File (sCleaner.bat)
 <br>
-<h5>Note: Emptying the Recycle Bin requires confirmation.<h5>
+<h5>Note: Emptying the Recycle Bin requires confirmation.</h5>
 <br>
 <br>
 <b>Enjoy the power of Automation!</b>
