@@ -1,5 +1,7 @@
-# sCleaner - Temp & Recycle Bin Cleaner for Windows
-This is a simple Batch (.bat) file that allows you to "clean" all Temp files as well as the Recycle Bin with one click!
+# sCleaner -  Fastest Temp Files Cleaner for Windows!
+<b>sCleaner</b> is a simple Batch (.bat) file that allows you to "clean" all Temp Files & the Recycle Bin with one click!
+<br>
+Important: Only Works on Windows 10
 
 <h3>Usage:</h3>
 - Simply download the executable from the releases and run it!
