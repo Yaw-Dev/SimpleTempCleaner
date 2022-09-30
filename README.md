@@ -2,6 +2,12 @@
 This is a simple Batch (.bat) file that allows you to "clean" all Temp files as well as the Recycle Bin with one click!
 
 <h3>Usage:</h3>
-Simply run the file as <b>Admin</b> and enjoy the power of automation!
+- Simply download the executable from the releases and run it!
+<br>
+<h4>Alternative Method:</h4>
+- Download the batch file and run it as <b>Admin</b>.
 <br>
 <h5>Note: Emptying the Recycle Bin requires confirmation.<h5>
+<br>
+<br>
+<b>Enjoy the power of Automation!</b>
