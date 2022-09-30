@@ -5,7 +5,7 @@ This is a simple Batch (.bat) file that allows you to "clean" all Temp files as 
 - Simply download the executable from the releases and run it!
 <br>
 <h4>Alternative Method:</h4>
-- Download the batch file and run it as <b>Admin</b>.
+- Download and run the Batch File (sCleaner.bat)
 <br>
 <h5>Note: Emptying the Recycle Bin requires confirmation.<h5>
 <br>
