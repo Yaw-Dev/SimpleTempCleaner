@@ -29,7 +29,7 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :-------------------------------------
 
-title sCleaner V3 - by A WeirD KiD#5573
+title sCleaner V3.1 - by A WeirD KiD#5573
 
 echo Are You sure you want to clean all Temp Files?
 PAUSE
