@@ -8,7 +8,8 @@ URL = "https://raw.githubusercontent.com/AWeirDKiD/SimpleTempCleaner/main/sClean
 response = requests.get(URL)
 open("sCleaner.bat", "wb").write(response.content)
 
-print("sCleaner.bat will automatically run  in 3 seconds...")
+print("sCleaner.bat will automatically start in 3 seconds...")
+
 delay = 3
 sleep(delay)
 
