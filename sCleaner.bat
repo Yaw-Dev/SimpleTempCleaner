@@ -29,7 +29,7 @@ if '%errorlevel%' NEQ '0' (
     CD /D "%~dp0"
 :-------------------------------------
 
-title sCleaner V3.2 - by A WeirD KiD#5573
+title sCleaner V3.3 - by e-z.bio/yaw
 
 echo Are You sure you want to clean all Temp Files?
 PAUSE
@@ -37,10 +37,10 @@ PAUSE
 dir /s /b %userprofile%\AppData\Local\Temp > TempFilesList1.txt
 dir /s /b %systemdrive%\Windows\Temp > TempFilesList2.txt
 
-taskkill /f /im discord.exe
-taskkill /f /im steam.exe
-taskkill /f /im chrome.exe
-taskkill /f /im epicgameslauncher.exe
+taskkill /f /im discord.exe /t
+taskkill /f /im steam.exe /t
+taskkill /f /im chrome.exe /t
+taskkill /f /im epicgameslauncher.exe /t
 
 rmdir /s /q %systemdrive%\Windows\Temp
 rmdir /s /q %systemdrive%\Users\%username%\AppData\Local\Temp
